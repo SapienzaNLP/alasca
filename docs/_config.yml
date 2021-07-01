@@ -1,0 +1,24 @@
+# Dependencies
+#markdown:         redcarpet
+rouge:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            ALaSca
+subtitle:         
+
+description:      An Automated Approach for Large-Scale Lexical Substitution
+# url: 
+#baseurl: docs
+baseurl: /alasca
+
+author:
+  name:           'Caterina Lacerra'
+  url:            https://twitter.com/CaterinaLac
+
+paginate:         2
+
+# Custom vars
+version:          2.1.0
